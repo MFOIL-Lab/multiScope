@@ -25,5 +25,5 @@ python main.py --template proposed_x2 --scale 2 --patch_select grad_window --los
 ```
 
 ## Problem
-This project code references EDSR. Run error problem solution can refer to https://github.com/sanghyun-son/EDSR-PyTorch.git
-
+This project code references EDSR.
+Run error problem solution can refer to https://github.com/sanghyun-son/EDSR-PyTorch.git
